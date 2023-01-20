@@ -1,267 +1,263 @@
 {
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",    
-    "cSpell.userWords": [
-        "atleast",
-        "h",
-        "include",
-        "int",
-        "iostream",
-        "main",
-        "namespace",
-        "return",
-        "std",
-        "stdio",
-        "Thumber",
-        "using"
-    ],
-    "C_Cpp.updateChannel": "Insiders",
-    "workbench.editor.enablePreview": false,
-    "workbench.editorAssociations": {
-        "*.ipynb": "jupyter.notebook.ipynb",
-        "*.csv": "gc-excelviewer-csv-editor",
-        "*.pdf": "cweijan.officeViewer",
-        "*.jpg": "cweijan.officeViewer",
-        "*.png": "cweijan.officeViewer",
-        "*.md": "cweijan.markdownViewer"
-    },
-    "code-runner.runInTerminal": true,
-    "editor.fontLigatures":true,
-    "editor.fontSize": 15,
-    "workbench.editor.untitled.hint": "hidden",
-    "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Dobri Next -C08- Darcula",
-    "editor.smoothScrolling": true,
-    "workbench.iconTheme": "helium-icon-theme",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "editor.fontFamily": " 'Operator Mono Lig', 'Menlo', Monaco, 'Courier New', monospace",    //'Operator Mono Lig', 'Menlo', Monaco, 'Courier New', monospace",
-    "editor.cursorBlinking": "expand",
-    "terminal.integrated.fontSize": 13,
-    "tabnine.experimentalAutoImports": true,
-    "json.schemas": [
-        {
-            "name": "vscode-expo-manifest",
-            "url": "file:///c%3A/Users/welcome/AppData/Roaming/Code/User/globalStorage/bycedric.vscode-expo/manifest-45.0.0.json",
-            "fileMatch": [
-                "app.json",
-                "app.config.json"
-            ]
-        }
-    ],
-    "gitlens.advanced.messages": {
-        "suppressGitMissingWarning": true
-    },
-    "files.exclude": {
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    },
-    "cmake.configureOnOpen": true,
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.mouseWheelZoom": true,
-    "workbench.startupEditor": "none",
-    "editor.inlineSuggest.enabled": true,
-    "github.copilot.enable": {
-        "*": true,
-        "yaml": true,
-        "plaintext": true,
-        "markdown": false,
-        "sql": true,
-        "oraclesql": true,
-        "python": true
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "bysabi.prettier-vscode-standard"
-    },
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "git.autofetch": true,
-    "[css]": {
-        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "editor.linkedEditing": true,
-    // "bracket-pair-colorizer-2.depreciation-notice": false,
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.python"
-    },
-    "[sql]": {
-        "editor.defaultFormatter": "ms-mssql.mssql"
-    },
-    "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.wordWrap": "on",
-    // "oracledevtools.bookmarkFileFolder": "C:\\Users\\welcome\\Oracle\\oracle.oracledevtools",
-    // "oracledevtools.download.otherFolder": "C:\\Users\\welcome\\downloads",
-    // "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\welcome\\Oracle\\network\\admin",
-    // "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\welcome\\Oracle\\network\\admin",
-    // "oracledevtools.connections": [
-    //     {
-    //         "authenticationType": 2,
-    //         "dBAPrivilege": "None",
-    //         "userID": "SYSTEM",
-    //         "passwordSaved": true,
-    //         "password": "123",
-    //         "dataSource": "localhost:1521/XEPDB1",
-    //         "connectionType": 2,
-    //         "databaseHostName": "localhost",
-    //         "databasePortNumber": "1521",
-    //         "databaseServiceName": "XEPDB1",
-    //         "name": "SYSTEM.XEPDB1",
-    //         "currentSchema": "",
-    //         "tnsAdmin": "C:\\Users\\welcome\\Oracle\\network\\admin"
-    //     }
-    // ],
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "leetcode.workspaceFolder": "e:\\New folder (8)",
-    "leetcode.defaultLanguage": "cpp",
-    // "hdinsight.enableSkipPysparkInstallation": false,
-    // "hdinsight.previousExtensionVersion": "1.1.16",
-    "explorer.confirmDragAndDrop": false,
-    // "hdinsight.disableOpenSurveyLink": true,
-    "window.zoomLevel": -1,
-    "redhat.telemetry.enabled": true,
-    "window.commandCenter": false,
-    "terminal.external.windowsExec": "",
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
-    "files.autoSave": "afterDelay",
-    "editor.accessibilitySupport": "on",
-    "[xml]": {
-        "editor.defaultFormatter": "redhat.vscode-xml"
-    },
-    "material-icon-theme.folders.theme": "specific",
-    "gopls": {
-        "experimentalWorkspaceModule": true,
-    },
-    "react-native-tools.showUserTips": false,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "cSpell.userWords": [
+    "atleast",
+    "h",
+    "include",
+    "int",
+    "iostream",
+    "main",
+    "namespace",
+    "return",
+    "std",
+    "stdio",
+    "Thumber",
+    "using"
+  ],
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.editor.enablePreview": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb",
+    "*.csv": "gc-excelviewer-csv-editor",
+    "*.pdf": "cweijan.officeViewer",
+    "*.jpg": "cweijan.officeViewer",
+    "*.png": "cweijan.officeViewer",
+    "*.md": "cweijan.markdownViewer"
+  },
+  "code-runner.runInTerminal": true,
+  // "editor.fontFamily": " 'Operator Mono Lig', 'Menlo', Monaco, 'Courier New', monospace",    //'Operator Mono Lig', 'Menlo', Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15.5,
+  "workbench.editor.untitled.hint": "hidden",
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Dobri Next -C04- Material",
+  "editor.smoothScrolling": true,
+  "workbench.iconTheme": "helium-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.fontSize": 13,
+  "tabnine.experimentalAutoImports": true,
+  "json.schemas": [
+    {
+      "name": "vscode-expo-manifest",
+      "url": "file:///c%3A/Users/welcome/AppData/Roaming/Code/User/globalStorage/bycedric.vscode-expo/manifest-45.0.0.json",
+      "fileMatch": ["app.json", "app.config.json"]
+    }
+  ],
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "cmake.configureOnOpen": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.mouseWheelZoom": true,
+  "workbench.startupEditor": "none",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": false,
+    "sql": true,
+    "oraclesql": true,
+    "python": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "bysabi.prettier-vscode-standard"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.linkedEditing": true,
+  // "bracket-pair-colorizer-2.depreciation-notice": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "ms-mssql.mssql"
+  },
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  // "oracledevtools.bookmarkFileFolder": "C:\\Users\\welcome\\Oracle\\oracle.oracledevtools",
+  // "oracledevtools.download.otherFolder": "C:\\Users\\welcome\\downloads",
+  // "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\welcome\\Oracle\\network\\admin",
+  // "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\welcome\\Oracle\\network\\admin",
+  // "oracledevtools.connections": [
+  //     {
+  //         "authenticationType": 2,
+  //         "dBAPrivilege": "None",
+  //         "userID": "SYSTEM",
+  //         "passwordSaved": true,
+  //         "password": "123",
+  //         "dataSource": "localhost:1521/XEPDB1",
+  //         "connectionType": 2,
+  //         "databaseHostName": "localhost",
+  //         "databasePortNumber": "1521",
+  //         "databaseServiceName": "XEPDB1",
+  //         "name": "SYSTEM.XEPDB1",
+  //         "currentSchema": "",
+  //         "tnsAdmin": "C:\\Users\\welcome\\Oracle\\network\\admin"
+  //     }
+  // ],
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "leetcode.workspaceFolder": "e:\\New folder (8)",
+  "leetcode.defaultLanguage": "cpp",
+  // "hdinsight.enableSkipPysparkInstallation": false,
+  // "hdinsight.previousExtensionVersion": "1.1.16",
+  "explorer.confirmDragAndDrop": false,
+  // "hdinsight.disableOpenSurveyLink": true,
+  "window.zoomLevel": -1,
+  "redhat.telemetry.enabled": true,
+  "window.commandCenter": false,
+  "terminal.external.windowsExec": "",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font",
+  "files.autoSave": "afterDelay",
+  "editor.accessibilitySupport": "on",
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "material-icon-theme.folders.theme": "specific",
+  "gopls": {
+    "experimentalWorkspaceModule": true
+  },
+  "react-native-tools.showUserTips": false,
 
-    "editor.tokenColorCustomizations": {
-        "[Dobri Next -C08- Darcula]": {
-            "textMateRules": [
-                {
-                    "scope": "emphasis",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "entity.name.function",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "strong",
-                    "settings": {
-                        "fontStyle": "bold"
-                    }
-                },
-                {
-                    "scope": "entity.other.attribute-name",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "markup.underline",
-                    "settings": {
-                        "fontStyle": "underline"
-                    }
-                },
-                {
-                    "scope": "markup.bold",
-                    "settings": {
-                        "fontStyle": "bold"
-                    }
-                },
-                {
-                    "scope": "markup.heading",
-                    "settings": {
-                        "fontStyle": "bold"
-                    }
-                },
-                {
-                    "scope": "markup.italic",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "storage.type",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "storage.modifier",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "name": "String interpolation",
-                    "scope": [
-                        "punctuation.definition.template-expression.begin",
-                        "punctuation.definition.template-expression.end",
-                        "punctuation.section.embedded"
-                    ],
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": "keyword.control",
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": [
-                        "keyword.operator.new",
-                        "keyword.operator.expression",
-                        "keyword.operator.cast",
-                        "keyword.operator.sizeof",
-                        "keyword.operator.logical.python"
-                    ],
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "name": "this.self",
-                    "scope": "variable.language",
-                    "settings": {
-                        "fontStyle": "italic",
-                        "foreground": "#ff5874"
-                    }
-                },
-                {
-                    "name": "@Decorator",
-                    "scope": [
-                        "meta.decorator punctuation.decorator"
-                    ],
-                    "settings": {
-                        "fontStyle": "italic"
-                    }
-                },
-                {
-                    "scope": [
-                        "punctuation.definition.comment",
-                        "comment"
-                    ],
-                    "settings": {
-                        // "foreground": "#ff5874",
-                        "fontStyle": "italic"
-                    }
-                }
-            ]
+  "editor.tokenColorCustomizations": {
+    "[Community Material Theme Darker High Contrast]": {
+      "textMateRules": [
+        {
+          "scope": "emphasis",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "entity.name.function",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "strong",
+          "settings": {
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "entity.other.attribute-name",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "markup.underline",
+          "settings": {
+            "fontStyle": "underline"
+          }
+        },
+        {
+          "scope": "markup.bold",
+          "settings": {
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.heading",
+          "settings": {
+            "fontStyle": "bold"
+          }
+        },
+        {
+          "scope": "markup.italic",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "storage.type",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "storage.modifier",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "name": "String interpolation",
+          "scope": [
+            "punctuation.definition.template-expression.begin",
+            "punctuation.definition.template-expression.end",
+            "punctuation.section.embedded"
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "keyword.control",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": [
+            "keyword.operator.new",
+            "keyword.operator.expression",
+            "keyword.operator.cast",
+            "keyword.operator.sizeof",
+            "keyword.operator.logical.python"
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "name": "this.self",
+          "scope": "variable.language",
+          "settings": {
+            "fontStyle": "italic",
+            "foreground": "#ff5874"
+          }
+        },
+        {
+          "name": "@Decorator",
+          "scope": ["meta.decorator punctuation.decorator"],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": ["punctuation.definition.comment", "comment"],
+          "settings": {
+            // "foreground": "#ff5874",
+            "fontStyle": "italic"
+          }
         }
-    },
+      ]
+    }
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
